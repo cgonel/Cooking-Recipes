@@ -1,2 +1,2 @@
 # Cooking-Recipes
-Cooking recipes website fetching data from an API.
+Cooking recipes website that fetches data from an API.
